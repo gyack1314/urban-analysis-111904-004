@@ -205,8 +205,8 @@
       "report_day": "2025-01-29",
       "known_at": "2025-01-29T18:00:00+08:00",
       "physical_quantity": 100,
-      "accepted_quantity": 100,
-      "known_rework_quantity": 10
+      "accepted_quantity": 65,
+      "known_rework_quantity": 35
     },
     {
       "task": "T05",

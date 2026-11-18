@@ -44,13 +44,13 @@
     {
       "path": "progress.parquet",
       "bytes": 21277,
-      "sha256": "e64da06cbc00b601c5b7481329a9cab3294328ec33e9ce488f41d600cba13260",
+      "sha256": "e35694100779a353f2efa61ae931ca69ebdf1450fcf7d65135511a9173a7e579",
       "rows": 30
     },
     {
       "path": "project-context.json",
-      "bytes": 669,
-      "sha256": "632e2aa72bedb762d7fad46e08f232de951124e23d9390194f26febf6ba1931f"
+      "bytes": 893,
+      "sha256": "07114da0757a5df25fffbe61376089d69eccd001dbac7400c11b0746e794a54c"
     },
     {
       "path": "resources.parquet",
@@ -60,8 +60,8 @@
     },
     {
       "path": "seed.json",
-      "bytes": 61456,
-      "sha256": "cbc00fc49715c83ea0b0a43e7af84eb3bce5e589548f87ce2f3958659cb1143f"
+      "bytes": 61455,
+      "sha256": "3f37ee21b36abb4fde842240b09f18625f6df6b4a6a17fc7bacda661ca06f683"
     },
     {
       "path": "tasks.parquet",
