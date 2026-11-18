@@ -1,0 +1,79 @@
+{
+  "files": [
+    {
+      "path": "actions.json",
+      "bytes": 199,
+      "sha256": "f1c8921c802c95f68915a783e6e181dcf7629b306ebf651fd9325263060b701d"
+    },
+    {
+      "path": "anchors.parquet",
+      "bytes": 1459,
+      "sha256": "4e4e8c1ac9b7729e71ac5d904c75204134a4a4dc8ea0012a01a5f9694b1cd54f",
+      "rows": 1
+    },
+    {
+      "path": "calendars.parquet",
+      "bytes": 2176,
+      "sha256": "0e0fdf2f0fef0824bfd90fcb1288c3b61fcabe486ac66835ea723173a503e138",
+      "rows": 1
+    },
+    {
+      "path": "history.parquet",
+      "bytes": 117155,
+      "sha256": "5599254699829205981403e2ce579b359b9601f4576056332fccd53b7435752e",
+      "rows": 120
+    },
+    {
+      "path": "links.parquet",
+      "bytes": 5088,
+      "sha256": "6335b6b0f20d506a82e4e32b523258dca14c769ccfc8d1f8f1601e6fadbcacb5",
+      "rows": 9
+    },
+    {
+      "path": "milestones.parquet",
+      "bytes": 1432,
+      "sha256": "95ce5ab2764bbc7d99cba45355c465af3264098b464f0459951df2747e6c302b",
+      "rows": 2
+    },
+    {
+      "path": "options.parquet",
+      "bytes": 5574,
+      "sha256": "5ef2b7a28bda4730ded41b474988c4e5bdd5cf7f809e4a67551385ea7733fdbc",
+      "rows": 4
+    },
+    {
+      "path": "progress.parquet",
+      "bytes": 21277,
+      "sha256": "e64da06cbc00b601c5b7481329a9cab3294328ec33e9ce488f41d600cba13260",
+      "rows": 30
+    },
+    {
+      "path": "project-context.json",
+      "bytes": 669,
+      "sha256": "632e2aa72bedb762d7fad46e08f232de951124e23d9390194f26febf6ba1931f"
+    },
+    {
+      "path": "resources.parquet",
+      "bytes": 1252,
+      "sha256": "e8e66035a823d1be559cf1e1439cb3b2986b36da5905079e4f1537d5833ba420",
+      "rows": 4
+    },
+    {
+      "path": "seed.json",
+      "bytes": 61456,
+      "sha256": "cbc00fc49715c83ea0b0a43e7af84eb3bce5e589548f87ce2f3958659cb1143f"
+    },
+    {
+      "path": "tasks.parquet",
+      "bytes": 9398,
+      "sha256": "ad4cb3ea031b95be26cc54aa127a19f72c4d49d279ee25c61890d05fc6be7c9e",
+      "rows": 10
+    },
+    {
+      "path": "weather.parquet",
+      "bytes": 36839,
+      "sha256": "7c9069417f2fa74e3718b3284f5ae4d0eab9abb70b0ac4bfe135af26322d2127",
+      "rows": 75
+    }
+  ]
+}

@@ -1,0 +1,2422 @@
+{
+  "tasks": [
+    {
+      "task": "T01",
+      "section": "A",
+      "kind": "frame",
+      "quantity_total": 100,
+      "resource": "R-team1",
+      "resource_units": 1,
+      "outdoor": true,
+      "calendar": "day",
+      "cure_work_hours": 0
+    },
+    {
+      "task": "T02",
+      "section": "A",
+      "kind": "enclosure",
+      "quantity_total": 100,
+      "resource": "R-team2",
+      "resource_units": 1,
+      "outdoor": true,
+      "calendar": "day",
+      "cure_work_hours": 0
+    },
+    {
+      "task": "T03",
+      "section": "A",
+      "kind": "foundation",
+      "quantity_total": 100,
+      "resource": "R-team0",
+      "resource_units": 1,
+      "outdoor": false,
+      "calendar": "day",
+      "cure_work_hours": 16
+    },
+    {
+      "task": "T04",
+      "section": "A",
+      "kind": "frame",
+      "quantity_total": 100,
+      "resource": "R-crane",
+      "resource_units": 1,
+      "outdoor": true,
+      "calendar": "day",
+      "cure_work_hours": 0
+    },
+    {
+      "task": "T05",
+      "section": "A",
+      "kind": "enclosure",
+      "quantity_total": 100,
+      "resource": "R-team2",
+      "resource_units": 1,
+      "outdoor": true,
+      "calendar": "day",
+      "cure_work_hours": 0
+    },
+    {
+      "task": "T06",
+      "section": "B",
+      "kind": "foundation",
+      "quantity_total": 100,
+      "resource": "R-team0",
+      "resource_units": 1,
+      "outdoor": false,
+      "calendar": "day",
+      "cure_work_hours": 16
+    },
+    {
+      "task": "T07",
+      "section": "B",
+      "kind": "frame",
+      "quantity_total": 100,
+      "resource": "R-crane",
+      "resource_units": 1,
+      "outdoor": true,
+      "calendar": "day",
+      "cure_work_hours": 0
+    },
+    {
+      "task": "T08",
+      "section": "B",
+      "kind": "enclosure",
+      "quantity_total": 100,
+      "resource": "R-team2",
+      "resource_units": 1,
+      "outdoor": true,
+      "calendar": "day",
+      "cure_work_hours": 0
+    },
+    {
+      "task": "T09",
+      "section": "B",
+      "kind": "foundation",
+      "quantity_total": 100,
+      "resource": "R-team0",
+      "resource_units": 1,
+      "outdoor": false,
+      "calendar": "day",
+      "cure_work_hours": 16
+    },
+    {
+      "task": "T10",
+      "section": "B",
+      "kind": "frame",
+      "quantity_total": 100,
+      "resource": "R-team1",
+      "resource_units": 1,
+      "outdoor": true,
+      "calendar": "day",
+      "cure_work_hours": 0
+    }
+  ],
+  "progress": [
+    {
+      "task": "T01",
+      "report_day": "2025-01-13",
+      "known_at": "2025-01-13T18:00:00+08:00",
+      "physical_quantity": 100,
+      "accepted_quantity": 100,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T01",
+      "report_day": "2025-01-21",
+      "known_at": "2025-01-21T18:00:00+08:00",
+      "physical_quantity": 100,
+      "accepted_quantity": 100,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T01",
+      "report_day": "2025-01-29",
+      "known_at": "2025-01-29T18:00:00+08:00",
+      "physical_quantity": 100,
+      "accepted_quantity": 100,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T02",
+      "report_day": "2025-01-13",
+      "known_at": "2025-01-13T18:00:00+08:00",
+      "physical_quantity": 100,
+      "accepted_quantity": 100,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T02",
+      "report_day": "2025-01-21",
+      "known_at": "2025-01-21T18:00:00+08:00",
+      "physical_quantity": 100,
+      "accepted_quantity": 100,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T02",
+      "report_day": "2025-01-29",
+      "known_at": "2025-01-29T18:00:00+08:00",
+      "physical_quantity": 100,
+      "accepted_quantity": 100,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T03",
+      "report_day": "2025-01-13",
+      "known_at": "2025-01-13T18:00:00+08:00",
+      "physical_quantity": 75.0,
+      "accepted_quantity": 25.0,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T03",
+      "report_day": "2025-01-21",
+      "known_at": "2025-01-21T18:00:00+08:00",
+      "physical_quantity": 100,
+      "accepted_quantity": 100,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T03",
+      "report_day": "2025-01-29",
+      "known_at": "2025-01-29T18:00:00+08:00",
+      "physical_quantity": 100,
+      "accepted_quantity": 100,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T04",
+      "report_day": "2025-01-13",
+      "known_at": "2025-01-13T18:00:00+08:00",
+      "physical_quantity": 0,
+      "accepted_quantity": 0,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T04",
+      "report_day": "2025-01-21",
+      "known_at": "2025-01-21T18:00:00+08:00",
+      "physical_quantity": 80,
+      "accepted_quantity": 40,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T04",
+      "report_day": "2025-01-29",
+      "known_at": "2025-01-29T18:00:00+08:00",
+      "physical_quantity": 100,
+      "accepted_quantity": 100,
+      "known_rework_quantity": 10
+    },
+    {
+      "task": "T05",
+      "report_day": "2025-01-13",
+      "known_at": "2025-01-13T18:00:00+08:00",
+      "physical_quantity": 0,
+      "accepted_quantity": 0,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T05",
+      "report_day": "2025-01-21",
+      "known_at": "2025-01-21T18:00:00+08:00",
+      "physical_quantity": 0,
+      "accepted_quantity": 0,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T05",
+      "report_day": "2025-01-29",
+      "known_at": "2025-01-29T18:00:00+08:00",
+      "physical_quantity": 0,
+      "accepted_quantity": 0,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T06",
+      "report_day": "2025-01-13",
+      "known_at": "2025-01-13T18:00:00+08:00",
+      "physical_quantity": 20.0,
+      "accepted_quantity": 0,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T06",
+      "report_day": "2025-01-21",
+      "known_at": "2025-01-21T18:00:00+08:00",
+      "physical_quantity": 100,
+      "accepted_quantity": 80.0,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T06",
+      "report_day": "2025-01-29",
+      "known_at": "2025-01-29T18:00:00+08:00",
+      "physical_quantity": 100,
+      "accepted_quantity": 100,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T07",
+      "report_day": "2025-01-13",
+      "known_at": "2025-01-13T18:00:00+08:00",
+      "physical_quantity": 0,
+      "accepted_quantity": 0,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T07",
+      "report_day": "2025-01-21",
+      "known_at": "2025-01-21T18:00:00+08:00",
+      "physical_quantity": 0,
+      "accepted_quantity": 0,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T07",
+      "report_day": "2025-01-29",
+      "known_at": "2025-01-29T18:00:00+08:00",
+      "physical_quantity": 100,
+      "accepted_quantity": 100,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T08",
+      "report_day": "2025-01-13",
+      "known_at": "2025-01-13T18:00:00+08:00",
+      "physical_quantity": 0,
+      "accepted_quantity": 0,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T08",
+      "report_day": "2025-01-21",
+      "known_at": "2025-01-21T18:00:00+08:00",
+      "physical_quantity": 0,
+      "accepted_quantity": 0,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T08",
+      "report_day": "2025-01-29",
+      "known_at": "2025-01-29T18:00:00+08:00",
+      "physical_quantity": 0,
+      "accepted_quantity": 0,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T09",
+      "report_day": "2025-01-13",
+      "known_at": "2025-01-13T18:00:00+08:00",
+      "physical_quantity": 0,
+      "accepted_quantity": 0,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T09",
+      "report_day": "2025-01-21",
+      "known_at": "2025-01-21T18:00:00+08:00",
+      "physical_quantity": 0,
+      "accepted_quantity": 0,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T09",
+      "report_day": "2025-01-29",
+      "known_at": "2025-01-29T18:00:00+08:00",
+      "physical_quantity": 0,
+      "accepted_quantity": 0,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T10",
+      "report_day": "2025-01-13",
+      "known_at": "2025-01-13T18:00:00+08:00",
+      "physical_quantity": 0,
+      "accepted_quantity": 0,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T10",
+      "report_day": "2025-01-21",
+      "known_at": "2025-01-21T18:00:00+08:00",
+      "physical_quantity": 0,
+      "accepted_quantity": 0,
+      "known_rework_quantity": 0
+    },
+    {
+      "task": "T10",
+      "report_day": "2025-01-29",
+      "known_at": "2025-01-29T18:00:00+08:00",
+      "physical_quantity": 0,
+      "accepted_quantity": 0,
+      "known_rework_quantity": 0
+    }
+  ],
+  "links": [
+    {
+      "predecessor": "T01",
+      "successor": "T02",
+      "type": "FS",
+      "lag_hours": 0,
+      "calendar": "day"
+    },
+    {
+      "predecessor": "T02",
+      "successor": "T03",
+      "type": "FS",
+      "lag_hours": 0,
+      "calendar": "day"
+    },
+    {
+      "predecessor": "T03",
+      "successor": "T04",
+      "type": "FS",
+      "lag_hours": 0,
+      "calendar": "day"
+    },
+    {
+      "predecessor": "T04",
+      "successor": "T05",
+      "type": "FS",
+      "lag_hours": 0,
+      "calendar": "day"
+    },
+    {
+      "predecessor": "T06",
+      "successor": "T07",
+      "type": "SS",
+      "lag_hours": 8,
+      "calendar": "day"
+    },
+    {
+      "predecessor": "T07",
+      "successor": "T08",
+      "type": "FS",
+      "lag_hours": 0,
+      "calendar": "day"
+    },
+    {
+      "predecessor": "T08",
+      "successor": "T09",
+      "type": "FS",
+      "lag_hours": 0,
+      "calendar": "day"
+    },
+    {
+      "predecessor": "T09",
+      "successor": "T10",
+      "type": "FS",
+      "lag_hours": 0,
+      "calendar": "day"
+    },
+    {
+      "predecessor": "T03",
+      "successor": "T08",
+      "type": "FF",
+      "lag_hours": 0,
+      "calendar": "day"
+    }
+  ],
+  "history": [
+    {
+      "history": "H0",
+      "project": "HP0",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-27T08:00:00+08:00",
+      "ended": null,
+      "censored_at": "2024-12-30T18:00:00+08:00",
+      "expedited": true,
+      "crew": "HT0",
+      "outdoor": true
+    },
+    {
+      "history": "H1",
+      "project": "HP0",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-27T08:00:00+08:00",
+      "ended": "2025-01-05T22:03:06.380225+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": true
+    },
+    {
+      "history": "H2",
+      "project": "HP0",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-27T08:00:00+08:00",
+      "ended": "2025-01-02T14:03:16.173432+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": false
+    },
+    {
+      "history": "H3",
+      "project": "HP0",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-27T08:00:00+08:00",
+      "ended": "2025-01-05T21:02:48.596786+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": true
+    },
+    {
+      "history": "H4",
+      "project": "HP0",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-27T08:00:00+08:00",
+      "ended": "2025-01-02T10:49:03.723471+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": true
+    },
+    {
+      "history": "H5",
+      "project": "HP0",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-26T08:00:00+08:00",
+      "ended": "2025-01-04T13:20:44.276135+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": false
+    },
+    {
+      "history": "H6",
+      "project": "HP0",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-26T08:00:00+08:00",
+      "ended": "2025-01-01T20:27:38.340279+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": true
+    },
+    {
+      "history": "H7",
+      "project": "HP0",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-26T08:00:00+08:00",
+      "ended": "2025-01-01T05:52:14.367576+08:00",
+      "censored_at": null,
+      "expedited": true,
+      "crew": "HT3",
+      "outdoor": true
+    },
+    {
+      "history": "H8",
+      "project": "HP0",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-26T08:00:00+08:00",
+      "ended": "2024-12-31T12:55:56.327928+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": false
+    },
+    {
+      "history": "H9",
+      "project": "HP0",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-26T08:00:00+08:00",
+      "ended": "2025-01-05T02:57:31.728777+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": true
+    },
+    {
+      "history": "H10",
+      "project": "HP0",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-25T08:00:00+08:00",
+      "ended": "2024-12-31T04:18:33.815573+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": true
+    },
+    {
+      "history": "H11",
+      "project": "HP0",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-25T08:00:00+08:00",
+      "ended": "2025-01-03T12:59:16.449142+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": false
+    },
+    {
+      "history": "H12",
+      "project": "HP1",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-25T08:00:00+08:00",
+      "ended": "2025-01-03T10:38:54.333249+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": true
+    },
+    {
+      "history": "H13",
+      "project": "HP1",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-25T08:00:00+08:00",
+      "ended": null,
+      "censored_at": "2024-12-28T18:00:00+08:00",
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": true
+    },
+    {
+      "history": "H14",
+      "project": "HP1",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-25T08:00:00+08:00",
+      "ended": "2025-01-03T05:16:06.098697+08:00",
+      "censored_at": null,
+      "expedited": true,
+      "crew": "HT2",
+      "outdoor": false
+    },
+    {
+      "history": "H15",
+      "project": "HP1",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-24T08:00:00+08:00",
+      "ended": "2025-01-02T16:26:49.531527+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": true
+    },
+    {
+      "history": "H16",
+      "project": "HP1",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-24T08:00:00+08:00",
+      "ended": "2025-01-01T01:30:50.416312+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": true
+    },
+    {
+      "history": "H17",
+      "project": "HP1",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-24T08:00:00+08:00",
+      "ended": "2024-12-30T01:39:55.958885+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": false
+    },
+    {
+      "history": "H18",
+      "project": "HP1",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-24T08:00:00+08:00",
+      "ended": "2024-12-30T21:48:34.711764+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": true
+    },
+    {
+      "history": "H19",
+      "project": "HP1",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-24T08:00:00+08:00",
+      "ended": "2024-12-31T16:49:12.850719+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": true
+    },
+    {
+      "history": "H20",
+      "project": "HP1",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-23T08:00:00+08:00",
+      "ended": "2025-01-05T16:51:37.073241+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": false
+    },
+    {
+      "history": "H21",
+      "project": "HP1",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-23T08:00:00+08:00",
+      "ended": "2024-12-29T17:46:14.203367+08:00",
+      "censored_at": null,
+      "expedited": true,
+      "crew": "HT1",
+      "outdoor": true
+    },
+    {
+      "history": "H22",
+      "project": "HP1",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-23T08:00:00+08:00",
+      "ended": "2024-12-30T10:52:16.467024+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": true
+    },
+    {
+      "history": "H23",
+      "project": "HP1",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-23T08:00:00+08:00",
+      "ended": "2025-01-03T09:17:50.207714+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": false
+    },
+    {
+      "history": "H24",
+      "project": "HP2",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-23T08:00:00+08:00",
+      "ended": "2025-01-06T11:30:19.036182+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": true
+    },
+    {
+      "history": "H25",
+      "project": "HP2",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-22T08:00:00+08:00",
+      "ended": "2025-01-02T05:28:29.793687+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": true
+    },
+    {
+      "history": "H26",
+      "project": "HP2",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-22T08:00:00+08:00",
+      "ended": null,
+      "censored_at": "2024-12-25T18:00:00+08:00",
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": false
+    },
+    {
+      "history": "H27",
+      "project": "HP2",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-22T08:00:00+08:00",
+      "ended": "2024-12-29T02:39:31.949854+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": true
+    },
+    {
+      "history": "H28",
+      "project": "HP2",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-22T08:00:00+08:00",
+      "ended": "2024-12-28T09:42:14.968589+08:00",
+      "censored_at": null,
+      "expedited": true,
+      "crew": "HT0",
+      "outdoor": true
+    },
+    {
+      "history": "H29",
+      "project": "HP2",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-22T08:00:00+08:00",
+      "ended": "2025-01-02T01:08:45.335054+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": false
+    },
+    {
+      "history": "H30",
+      "project": "HP2",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-21T08:00:00+08:00",
+      "ended": "2024-12-29T18:03:27.516751+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": true
+    },
+    {
+      "history": "H31",
+      "project": "HP2",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-21T08:00:00+08:00",
+      "ended": "2024-12-29T05:57:54.289778+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": true
+    },
+    {
+      "history": "H32",
+      "project": "HP2",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-21T08:00:00+08:00",
+      "ended": "2024-12-26T06:02:29.077641+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": false
+    },
+    {
+      "history": "H33",
+      "project": "HP2",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-21T08:00:00+08:00",
+      "ended": "2024-12-26T14:22:56.580137+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": true
+    },
+    {
+      "history": "H34",
+      "project": "HP2",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-21T08:00:00+08:00",
+      "ended": "2025-01-04T16:00:52.142970+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": true
+    },
+    {
+      "history": "H35",
+      "project": "HP2",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-20T08:00:00+08:00",
+      "ended": "2024-12-27T08:22:37.572140+08:00",
+      "censored_at": null,
+      "expedited": true,
+      "crew": "HT3",
+      "outdoor": false
+    },
+    {
+      "history": "H36",
+      "project": "HP3",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-20T08:00:00+08:00",
+      "ended": "2024-12-27T04:16:37.603566+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": true
+    },
+    {
+      "history": "H37",
+      "project": "HP3",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-20T08:00:00+08:00",
+      "ended": "2024-12-29T11:19:31.515222+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": true
+    },
+    {
+      "history": "H38",
+      "project": "HP3",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-20T08:00:00+08:00",
+      "ended": "2024-12-28T11:51:53.424207+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": false
+    },
+    {
+      "history": "H39",
+      "project": "HP3",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-20T08:00:00+08:00",
+      "ended": null,
+      "censored_at": "2024-12-23T18:00:00+08:00",
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": true
+    },
+    {
+      "history": "H40",
+      "project": "HP3",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-19T08:00:00+08:00",
+      "ended": "2024-12-28T11:46:15.344500+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": true
+    },
+    {
+      "history": "H41",
+      "project": "HP3",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-19T08:00:00+08:00",
+      "ended": "2024-12-26T15:30:00.950019+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": false
+    },
+    {
+      "history": "H42",
+      "project": "HP3",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-19T08:00:00+08:00",
+      "ended": "2024-12-28T06:54:49.450635+08:00",
+      "censored_at": null,
+      "expedited": true,
+      "crew": "HT2",
+      "outdoor": true
+    },
+    {
+      "history": "H43",
+      "project": "HP3",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-19T08:00:00+08:00",
+      "ended": "2024-12-25T10:18:26.070372+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": true
+    },
+    {
+      "history": "H44",
+      "project": "HP3",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-19T08:00:00+08:00",
+      "ended": "2024-12-31T09:01:06.495765+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": false
+    },
+    {
+      "history": "H45",
+      "project": "HP3",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-18T08:00:00+08:00",
+      "ended": "2024-12-29T00:49:26.297872+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": true
+    },
+    {
+      "history": "H46",
+      "project": "HP3",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-18T08:00:00+08:00",
+      "ended": "2024-12-28T14:09:38.299145+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": true
+    },
+    {
+      "history": "H47",
+      "project": "HP3",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-18T08:00:00+08:00",
+      "ended": "2024-12-24T04:07:03.654142+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": false
+    },
+    {
+      "history": "H48",
+      "project": "HP4",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-18T08:00:00+08:00",
+      "ended": "2024-12-25T01:42:28.246259+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": true
+    },
+    {
+      "history": "H49",
+      "project": "HP4",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-18T08:00:00+08:00",
+      "ended": "2024-12-26T21:49:59.140453+08:00",
+      "censored_at": null,
+      "expedited": true,
+      "crew": "HT1",
+      "outdoor": true
+    },
+    {
+      "history": "H50",
+      "project": "HP4",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-17T08:00:00+08:00",
+      "ended": "2024-12-22T11:15:20.914613+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": false
+    },
+    {
+      "history": "H51",
+      "project": "HP4",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-17T08:00:00+08:00",
+      "ended": "2024-12-29T19:33:08.155784+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": true
+    },
+    {
+      "history": "H52",
+      "project": "HP4",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-17T08:00:00+08:00",
+      "ended": null,
+      "censored_at": "2024-12-20T18:00:00+08:00",
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": true
+    },
+    {
+      "history": "H53",
+      "project": "HP4",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-17T08:00:00+08:00",
+      "ended": "2024-12-25T21:15:38.854524+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": false
+    },
+    {
+      "history": "H54",
+      "project": "HP4",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-17T08:00:00+08:00",
+      "ended": "2024-12-26T06:31:32.498268+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": true
+    },
+    {
+      "history": "H55",
+      "project": "HP4",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-16T08:00:00+08:00",
+      "ended": "2024-12-23T22:45:45.862270+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": true
+    },
+    {
+      "history": "H56",
+      "project": "HP4",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-16T08:00:00+08:00",
+      "ended": "2024-12-23T07:05:45.207454+08:00",
+      "censored_at": null,
+      "expedited": true,
+      "crew": "HT0",
+      "outdoor": false
+    },
+    {
+      "history": "H57",
+      "project": "HP4",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-16T08:00:00+08:00",
+      "ended": "2024-12-25T10:47:35.278359+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": true
+    },
+    {
+      "history": "H58",
+      "project": "HP4",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-16T08:00:00+08:00",
+      "ended": "2024-12-26T14:58:49.978593+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": true
+    },
+    {
+      "history": "H59",
+      "project": "HP4",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-16T08:00:00+08:00",
+      "ended": "2024-12-25T15:29:27.434542+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": false
+    },
+    {
+      "history": "H60",
+      "project": "HP5",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-15T08:00:00+08:00",
+      "ended": "2024-12-22T10:53:39.469480+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": true
+    },
+    {
+      "history": "H61",
+      "project": "HP5",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-15T08:00:00+08:00",
+      "ended": "2024-12-24T04:15:33.031615+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": true
+    },
+    {
+      "history": "H62",
+      "project": "HP5",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-15T08:00:00+08:00",
+      "ended": "2024-12-24T23:48:32.138341+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": false
+    },
+    {
+      "history": "H63",
+      "project": "HP5",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-15T08:00:00+08:00",
+      "ended": "2024-12-21T02:03:29.483824+08:00",
+      "censored_at": null,
+      "expedited": true,
+      "crew": "HT3",
+      "outdoor": true
+    },
+    {
+      "history": "H64",
+      "project": "HP5",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-15T08:00:00+08:00",
+      "ended": "2024-12-20T09:42:16.335208+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": true
+    },
+    {
+      "history": "H65",
+      "project": "HP5",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-14T08:00:00+08:00",
+      "ended": null,
+      "censored_at": "2024-12-17T18:00:00+08:00",
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": false
+    },
+    {
+      "history": "H66",
+      "project": "HP5",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-14T08:00:00+08:00",
+      "ended": "2024-12-20T17:01:20.767357+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": true
+    },
+    {
+      "history": "H67",
+      "project": "HP5",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-14T08:00:00+08:00",
+      "ended": "2024-12-20T09:26:49.232160+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": true
+    },
+    {
+      "history": "H68",
+      "project": "HP5",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-14T08:00:00+08:00",
+      "ended": "2024-12-23T05:34:06.259787+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": false
+    },
+    {
+      "history": "H69",
+      "project": "HP5",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-14T08:00:00+08:00",
+      "ended": "2024-12-20T09:05:23.393950+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": true
+    },
+    {
+      "history": "H70",
+      "project": "HP5",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-13T08:00:00+08:00",
+      "ended": "2024-12-21T19:33:49.089596+08:00",
+      "censored_at": null,
+      "expedited": true,
+      "crew": "HT2",
+      "outdoor": true
+    },
+    {
+      "history": "H71",
+      "project": "HP5",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-13T08:00:00+08:00",
+      "ended": "2024-12-21T13:07:11.809662+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": false
+    },
+    {
+      "history": "H72",
+      "project": "HP6",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-13T08:00:00+08:00",
+      "ended": "2024-12-21T18:02:25.385502+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": true
+    },
+    {
+      "history": "H73",
+      "project": "HP6",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-13T08:00:00+08:00",
+      "ended": "2024-12-21T05:20:53.505920+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": true
+    },
+    {
+      "history": "H74",
+      "project": "HP6",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-13T08:00:00+08:00",
+      "ended": "2024-12-21T06:50:44.256897+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": false
+    },
+    {
+      "history": "H75",
+      "project": "HP6",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-12T08:00:00+08:00",
+      "ended": "2024-12-24T15:57:03.336667+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": true
+    },
+    {
+      "history": "H76",
+      "project": "HP6",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-12T08:00:00+08:00",
+      "ended": "2024-12-18T16:22:05.319095+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": true
+    },
+    {
+      "history": "H77",
+      "project": "HP6",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-12T08:00:00+08:00",
+      "ended": "2024-12-18T23:40:47.831955+08:00",
+      "censored_at": null,
+      "expedited": true,
+      "crew": "HT1",
+      "outdoor": false
+    },
+    {
+      "history": "H78",
+      "project": "HP6",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-12T08:00:00+08:00",
+      "ended": null,
+      "censored_at": "2024-12-15T18:00:00+08:00",
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": true
+    },
+    {
+      "history": "H79",
+      "project": "HP6",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-12T08:00:00+08:00",
+      "ended": "2024-12-24T00:56:06.159784+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": true
+    },
+    {
+      "history": "H80",
+      "project": "HP6",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-11T08:00:00+08:00",
+      "ended": "2024-12-18T01:39:17.865259+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": false
+    },
+    {
+      "history": "H81",
+      "project": "HP6",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-11T08:00:00+08:00",
+      "ended": "2024-12-17T15:19:55.690895+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": true
+    },
+    {
+      "history": "H82",
+      "project": "HP6",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-11T08:00:00+08:00",
+      "ended": "2024-12-19T07:54:53.976833+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": true
+    },
+    {
+      "history": "H83",
+      "project": "HP6",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-11T08:00:00+08:00",
+      "ended": "2024-12-19T14:48:25.956522+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": false
+    },
+    {
+      "history": "H84",
+      "project": "HP7",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-11T08:00:00+08:00",
+      "ended": "2024-12-19T21:32:14.552863+08:00",
+      "censored_at": null,
+      "expedited": true,
+      "crew": "HT0",
+      "outdoor": true
+    },
+    {
+      "history": "H85",
+      "project": "HP7",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-10T08:00:00+08:00",
+      "ended": "2024-12-17T01:21:34.867006+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": true
+    },
+    {
+      "history": "H86",
+      "project": "HP7",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-10T08:00:00+08:00",
+      "ended": "2024-12-17T01:18:54.701309+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": false
+    },
+    {
+      "history": "H87",
+      "project": "HP7",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-10T08:00:00+08:00",
+      "ended": "2024-12-17T20:43:09.494577+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": true
+    },
+    {
+      "history": "H88",
+      "project": "HP7",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-10T08:00:00+08:00",
+      "ended": "2024-12-17T16:51:58.983785+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": true
+    },
+    {
+      "history": "H89",
+      "project": "HP7",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-10T08:00:00+08:00",
+      "ended": "2024-12-17T10:30:36.981253+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": false
+    },
+    {
+      "history": "H90",
+      "project": "HP7",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-09T08:00:00+08:00",
+      "ended": "2024-12-18T12:20:25.792189+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": true
+    },
+    {
+      "history": "H91",
+      "project": "HP7",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-09T08:00:00+08:00",
+      "ended": null,
+      "censored_at": "2024-12-12T18:00:00+08:00",
+      "expedited": true,
+      "crew": "HT3",
+      "outdoor": true
+    },
+    {
+      "history": "H92",
+      "project": "HP7",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-09T08:00:00+08:00",
+      "ended": "2024-12-20T21:21:47.603910+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": false
+    },
+    {
+      "history": "H93",
+      "project": "HP7",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-09T08:00:00+08:00",
+      "ended": "2024-12-18T19:28:19.798148+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": true
+    },
+    {
+      "history": "H94",
+      "project": "HP7",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-09T08:00:00+08:00",
+      "ended": "2024-12-13T23:30:25.198081+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": true
+    },
+    {
+      "history": "H95",
+      "project": "HP7",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-08T08:00:00+08:00",
+      "ended": "2024-12-16T22:59:47.795236+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": false
+    },
+    {
+      "history": "H96",
+      "project": "HP8",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-08T08:00:00+08:00",
+      "ended": "2024-12-20T22:39:39.522440+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": true
+    },
+    {
+      "history": "H97",
+      "project": "HP8",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-08T08:00:00+08:00",
+      "ended": "2024-12-14T20:55:31.596385+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": true
+    },
+    {
+      "history": "H98",
+      "project": "HP8",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-08T08:00:00+08:00",
+      "ended": "2024-12-14T17:21:10.863458+08:00",
+      "censored_at": null,
+      "expedited": true,
+      "crew": "HT2",
+      "outdoor": false
+    },
+    {
+      "history": "H99",
+      "project": "HP8",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-08T08:00:00+08:00",
+      "ended": "2024-12-14T17:00:11.098299+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": true
+    },
+    {
+      "history": "H100",
+      "project": "HP8",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-07T08:00:00+08:00",
+      "ended": "2024-12-12T12:22:08.386346+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": true
+    },
+    {
+      "history": "H101",
+      "project": "HP8",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-07T08:00:00+08:00",
+      "ended": "2024-12-13T02:27:36.279640+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": false
+    },
+    {
+      "history": "H102",
+      "project": "HP8",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-07T08:00:00+08:00",
+      "ended": "2024-12-13T08:56:05.785599+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": true
+    },
+    {
+      "history": "H103",
+      "project": "HP8",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-07T08:00:00+08:00",
+      "ended": "2024-12-18T04:35:50.357247+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": true
+    },
+    {
+      "history": "H104",
+      "project": "HP8",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-07T08:00:00+08:00",
+      "ended": null,
+      "censored_at": "2024-12-10T18:00:00+08:00",
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": false
+    },
+    {
+      "history": "H105",
+      "project": "HP8",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-06T08:00:00+08:00",
+      "ended": "2024-12-15T20:24:27.902839+08:00",
+      "censored_at": null,
+      "expedited": true,
+      "crew": "HT1",
+      "outdoor": true
+    },
+    {
+      "history": "H106",
+      "project": "HP8",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-06T08:00:00+08:00",
+      "ended": "2024-12-18T07:13:43.382597+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": true
+    },
+    {
+      "history": "H107",
+      "project": "HP8",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-06T08:00:00+08:00",
+      "ended": "2024-12-16T03:25:54.465931+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": false
+    },
+    {
+      "history": "H108",
+      "project": "HP9",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-06T08:00:00+08:00",
+      "ended": "2024-12-16T22:14:58.167645+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": true
+    },
+    {
+      "history": "H109",
+      "project": "HP9",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-06T08:00:00+08:00",
+      "ended": "2024-12-12T08:03:34.398164+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": true
+    },
+    {
+      "history": "H110",
+      "project": "HP9",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-05T08:00:00+08:00",
+      "ended": "2024-12-14T04:12:46.673780+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": false
+    },
+    {
+      "history": "H111",
+      "project": "HP9",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-05T08:00:00+08:00",
+      "ended": "2024-12-13T01:27:42.305488+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": true
+    },
+    {
+      "history": "H112",
+      "project": "HP9",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-05T08:00:00+08:00",
+      "ended": "2024-12-12T19:09:40.986972+08:00",
+      "censored_at": null,
+      "expedited": true,
+      "crew": "HT0",
+      "outdoor": true
+    },
+    {
+      "history": "H113",
+      "project": "HP9",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-05T08:00:00+08:00",
+      "ended": "2024-12-15T10:24:10.242976+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": false
+    },
+    {
+      "history": "H114",
+      "project": "HP9",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-05T08:00:00+08:00",
+      "ended": "2024-12-13T00:06:58.795898+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": true
+    },
+    {
+      "history": "H115",
+      "project": "HP9",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-04T08:00:00+08:00",
+      "ended": "2024-12-14T00:20:50.365406+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT3",
+      "outdoor": true
+    },
+    {
+      "history": "H116",
+      "project": "HP9",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-04T08:00:00+08:00",
+      "ended": "2024-12-10T02:51:17.570701+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT0",
+      "outdoor": false
+    },
+    {
+      "history": "H117",
+      "project": "HP9",
+      "kind": "foundation",
+      "quantity": 100,
+      "started": "2024-12-04T08:00:00+08:00",
+      "ended": null,
+      "censored_at": "2024-12-07T18:00:00+08:00",
+      "expedited": false,
+      "crew": "HT1",
+      "outdoor": true
+    },
+    {
+      "history": "H118",
+      "project": "HP9",
+      "kind": "frame",
+      "quantity": 100,
+      "started": "2024-12-04T08:00:00+08:00",
+      "ended": "2024-12-12T23:50:34.426934+08:00",
+      "censored_at": null,
+      "expedited": false,
+      "crew": "HT2",
+      "outdoor": true
+    },
+    {
+      "history": "H119",
+      "project": "HP9",
+      "kind": "enclosure",
+      "quantity": 100,
+      "started": "2024-12-04T08:00:00+08:00",
+      "ended": "2024-12-12T17:03:17.126566+08:00",
+      "censored_at": null,
+      "expedited": true,
+      "crew": "HT3",
+      "outdoor": false
+    }
+  ],
+  "weather": [
+    {
+      "date": "2025-01-01",
+      "rain_hours": 6,
+      "wind_stop_hours": 3,
+      "known_at": "2025-01-01T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-02",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-02T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-03",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-03T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-04",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-04T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-05",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-05T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-06",
+      "rain_hours": 2,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-06T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-07",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-07T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-08",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-08T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-09",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-09T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-10",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-10T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-11",
+      "rain_hours": 2,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-11T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-12",
+      "rain_hours": 6,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-12T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-13",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-13T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-14",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-14T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-15",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-15T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-16",
+      "rain_hours": 2,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-16T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-17",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-17T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-18",
+      "rain_hours": 0,
+      "wind_stop_hours": 3,
+      "known_at": "2025-01-18T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-19",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-19T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-20",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-20T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-21",
+      "rain_hours": 2,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-21T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-22",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-22T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-23",
+      "rain_hours": 6,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-23T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-24",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-24T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-25",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-25T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-26",
+      "rain_hours": 2,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-26T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-27",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-27T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-28",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-28T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-29",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-29T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-30",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-30T20:00:00+08:00"
+    },
+    {
+      "date": "2025-01-31",
+      "rain_hours": 2,
+      "wind_stop_hours": 0,
+      "known_at": "2025-01-31T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-01",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-01T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-02",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-02T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-03",
+      "rain_hours": 6,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-03T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-04",
+      "rain_hours": 0,
+      "wind_stop_hours": 3,
+      "known_at": "2025-02-04T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-05",
+      "rain_hours": 2,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-05T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-06",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-06T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-07",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-07T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-08",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-08T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-09",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-09T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-10",
+      "rain_hours": 2,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-10T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-11",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-11T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-12",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-12T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-13",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-13T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-14",
+      "rain_hours": 6,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-14T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-15",
+      "rain_hours": 2,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-15T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-16",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-16T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-17",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-17T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-18",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-18T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-19",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-19T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-20",
+      "rain_hours": 2,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-20T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-21",
+      "rain_hours": 0,
+      "wind_stop_hours": 3,
+      "known_at": "2025-02-21T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-22",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-22T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-23",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-23T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-24",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-24T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-25",
+      "rain_hours": 6,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-25T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-26",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-26T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-27",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-27T20:00:00+08:00"
+    },
+    {
+      "date": "2025-02-28",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-02-28T20:00:00+08:00"
+    },
+    {
+      "date": "2025-03-01",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-03-01T20:00:00+08:00"
+    },
+    {
+      "date": "2025-03-02",
+      "rain_hours": 2,
+      "wind_stop_hours": 0,
+      "known_at": "2025-03-02T20:00:00+08:00"
+    },
+    {
+      "date": "2025-03-03",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-03-03T20:00:00+08:00"
+    },
+    {
+      "date": "2025-03-04",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-03-04T20:00:00+08:00"
+    },
+    {
+      "date": "2025-03-05",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-03-05T20:00:00+08:00"
+    },
+    {
+      "date": "2025-03-06",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-03-06T20:00:00+08:00"
+    },
+    {
+      "date": "2025-03-07",
+      "rain_hours": 2,
+      "wind_stop_hours": 0,
+      "known_at": "2025-03-07T20:00:00+08:00"
+    },
+    {
+      "date": "2025-03-08",
+      "rain_hours": 6,
+      "wind_stop_hours": 0,
+      "known_at": "2025-03-08T20:00:00+08:00"
+    },
+    {
+      "date": "2025-03-09",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-03-09T20:00:00+08:00"
+    },
+    {
+      "date": "2025-03-10",
+      "rain_hours": 0,
+      "wind_stop_hours": 3,
+      "known_at": "2025-03-10T20:00:00+08:00"
+    },
+    {
+      "date": "2025-03-11",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-03-11T20:00:00+08:00"
+    },
+    {
+      "date": "2025-03-12",
+      "rain_hours": 2,
+      "wind_stop_hours": 0,
+      "known_at": "2025-03-12T20:00:00+08:00"
+    },
+    {
+      "date": "2025-03-13",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-03-13T20:00:00+08:00"
+    },
+    {
+      "date": "2025-03-14",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-03-14T20:00:00+08:00"
+    },
+    {
+      "date": "2025-03-15",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-03-15T20:00:00+08:00"
+    },
+    {
+      "date": "2025-03-16",
+      "rain_hours": 0,
+      "wind_stop_hours": 0,
+      "known_at": "2025-03-16T20:00:00+08:00"
+    }
+  ],
+  "resources": [
+    {
+      "resource": "R-crane",
+      "max_units": 1
+    },
+    {
+      "resource": "R-team0",
+      "max_units": 2
+    },
+    {
+      "resource": "R-team1",
+      "max_units": 2
+    },
+    {
+      "resource": "R-team2",
+      "max_units": 2
+    }
+  ],
+  "calendars": [
+    {
+      "calendar": "day",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "open_hour": 8,
+      "close_hour": 18,
+      "break_start": 12,
+      "break_end": 13
+    }
+  ],
+  "anchors": [
+    {
+      "task": "T07",
+      "start": "2025-01-26T08:00:00+08:00",
+      "end": "2025-01-28T18:00:00+08:00",
+      "kind": "fixed_execution_window"
+    }
+  ],
+  "options": [
+    {
+      "option": "O-team4",
+      "task": "T04",
+      "group": "labor4",
+      "cost_yuan": 12000,
+      "duration_multiplier_low": 0.65,
+      "duration_multiplier_high": 0.85,
+      "extra_resource": null,
+      "extra_units": 0,
+      "rework_probability_delta_low": 0.01,
+      "rework_probability_delta_high": 0.08
+    },
+    {
+      "option": "O-overtime4",
+      "task": "T04",
+      "group": "labor4",
+      "cost_yuan": 8000,
+      "duration_multiplier_low": 0.7,
+      "duration_multiplier_high": 0.95,
+      "extra_resource": null,
+      "extra_units": 0,
+      "rework_probability_delta_low": 0.05,
+      "rework_probability_delta_high": 0.15
+    },
+    {
+      "option": "O-crane",
+      "task": "T07",
+      "group": "equipment7",
+      "cost_yuan": 22000,
+      "duration_multiplier_low": 0.9,
+      "duration_multiplier_high": 1,
+      "extra_resource": "R-crane",
+      "extra_units": 1,
+      "rework_probability_delta_low": 0,
+      "rework_probability_delta_high": 0
+    },
+    {
+      "option": "O-team8",
+      "task": "T08",
+      "group": "labor8",
+      "cost_yuan": 9000,
+      "duration_multiplier_low": 0.7,
+      "duration_multiplier_high": 0.9,
+      "extra_resource": "R-team2",
+      "extra_units": 1,
+      "rework_probability_delta_low": 0,
+      "rework_probability_delta_high": 0.05
+    }
+  ],
+  "milestones": [
+    {
+      "milestone": "MA",
+      "task": "T05",
+      "deadline": "2025-02-15T18:00:00+08:00",
+      "delay_yuan_per_day": 1500
+    },
+    {
+      "milestone": "MB",
+      "task": "T10",
+      "deadline": "2025-02-18T18:00:00+08:00",
+      "delay_yuan_per_day": 1800
+    }
+  ]
+}

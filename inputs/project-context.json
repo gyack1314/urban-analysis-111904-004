@@ -1,0 +1,16 @@
+{
+  "report_at": "2025-01-21T20:00:00+08:00",
+  "backtest_report_days": [
+    "2025-01-13",
+    "2025-01-21",
+    "2025-01-29"
+  ],
+  "budget_yuan": 30000,
+  "history_duration_unit": "calendar_elapsed_with_work_calendars",
+  "baseline_rework_probability_range": [
+    0.02,
+    0.15
+  ],
+  "future_weather_reference": "historical whole-day observations only; future weather not known",
+  "progress_semantics": "physical_quantity为当前已完成原合同量，返工量独立记录；FS/SS/FF以实际施工开始/物理完成为节点，验收失败带来的返工需保留对交付和资源的影响；anchors是指定任务的实际施工窗口。"
+}

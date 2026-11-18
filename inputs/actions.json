@@ -1,0 +1,10 @@
+[
+  {
+    "action": "reinspection_failed",
+    "task": "T04",
+    "known_at": "2025-01-23T16:00:00+08:00",
+    "rework_quantity": 35,
+    "resource": "R-crane",
+    "resource_units": 1
+  }
+]
